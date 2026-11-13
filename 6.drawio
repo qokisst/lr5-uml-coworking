@@ -1,0 +1,102 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="BOqQIl9cqHMtvo1Z2KAt">
+    <mxGraphModel dx="982" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-15" edge="1" parent="1" source="MGL-4_AP_k21M1Et4W_e-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=-0.078;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="MGL-4_AP_k21M1Et4W_e-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-29" edge="1" parent="1" source="MGL-4_AP_k21M1Et4W_e-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.552;entryY=-0.085;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="MGL-4_AP_k21M1Et4W_e-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Новое" vertex="1">
+          <mxGeometry height="30" width="90" x="325" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-17" edge="1" parent="1" source="MGL-4_AP_k21M1Et4W_e-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="MGL-4_AP_k21M1Et4W_e-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-31" edge="1" parent="1" source="MGL-4_AP_k21M1Et4W_e-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.819;entryY=0.107;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="MGL-4_AP_k21M1Et4W_e-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Ожидает оплаты" vertex="1">
+          <mxGeometry height="30" width="90" x="325" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-19" edge="1" parent="1" source="MGL-4_AP_k21M1Et4W_e-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MGL-4_AP_k21M1Et4W_e-4">
+          <mxGeometry relative="1" x="0.4545" as="geometry">
+            <mxPoint x="370" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Оплачено" vertex="1">
+          <mxGeometry height="30" width="90" x="325" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-23" edge="1" parent="1" source="MGL-4_AP_k21M1Et4W_e-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.507;entryY=-0.067;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="MGL-4_AP_k21M1Et4W_e-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-33" edge="1" parent="1" source="MGL-4_AP_k21M1Et4W_e-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.99;entryY=0.636;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="MGL-4_AP_k21M1Et4W_e-26">
+          <mxGeometry relative="1" x="0.1726" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="315" />
+              <mxPoint x="250" y="229.2" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Активно" vertex="1">
+          <mxGeometry height="30" width="90" x="325" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Завершено" vertex="1">
+          <mxGeometry height="30" width="90" x="325" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-12" edge="1" parent="1" source="MGL-4_AP_k21M1Et4W_e-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="MGL-4_AP_k21M1Et4W_e-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-6" parent="1" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="360" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-9" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="359" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-7" parent="MGL-4_AP_k21M1Et4W_e-9" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-8" parent="MGL-4_AP_k21M1Et4W_e-9" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Выбрано время" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Успешная оплата" vertex="1">
+          <mxGeometry height="30" width="60" x="373" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Подтверждено админом" vertex="1">
+          <mxGeometry height="30" width="161" x="360" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Время вышло" vertex="1">
+          <mxGeometry height="30" width="161" x="340" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Отменено" vertex="1">
+          <mxGeometry height="30" width="90" x="140" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Отмена клиентом" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Таймаут 15 мин" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Возврат средств" vertex="1">
+          <mxGeometry height="30" width="60" x="265" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-35" edge="1" parent="1" source="MGL-4_AP_k21M1Et4W_e-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.605;entryY=0.004;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryPerimeter=0;" target="MGL-4_AP_k21M1Et4W_e-8">
+          <mxGeometry relative="1" x="0.1071" as="geometry" />
+        </mxCell>
+        <mxCell id="MGL-4_AP_k21M1Et4W_e-36" edge="1" parent="1" source="MGL-4_AP_k21M1Et4W_e-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.091;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="MGL-4_AP_k21M1Et4W_e-8">
+          <mxGeometry relative="1" x="0.0082" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="450.9" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
